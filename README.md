@@ -7,4 +7,4 @@ You must have dotNET installed on your computer before you can clone and clone r
 ## Get started
 Clone or download this repository to your filesystem using the following code:
 
-Create a new folder and enter: `git clone https://github.com/Toyin96/AlatBankApp.git` Next, cd into the project directory and enter `dotNET run` command to fire the program.
+Create a new folder and enter: `git clone `https://github.com/Toyin96/Teller.git` Next, cd into the project directory and enter `dotNET run` command to fire the program.
