@@ -1,0 +1,13 @@
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\bin\Debug\netcoreapp3.1\Teller.exe
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\bin\Debug\netcoreapp3.1\Teller.deps.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\bin\Debug\netcoreapp3.1\Teller.runtimeconfig.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\bin\Debug\netcoreapp3.1\Teller.runtimeconfig.dev.json
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\bin\Debug\netcoreapp3.1\Teller.dll
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\bin\Debug\netcoreapp3.1\Teller.pdb
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\obj\Debug\netcoreapp3.1\Teller.csprojAssemblyReference.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\obj\Debug\netcoreapp3.1\Teller.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\obj\Debug\netcoreapp3.1\Teller.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\obj\Debug\netcoreapp3.1\Teller.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\obj\Debug\netcoreapp3.1\Teller.dll
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\obj\Debug\netcoreapp3.1\Teller.pdb
+C:\Users\ADMIN\OneDrive - University of Lagos\Documents\WEMA CSHARP CLASS\Assignment\Teller\Teller\obj\Debug\netcoreapp3.1\Teller.genruntimeconfig.cache
