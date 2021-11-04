@@ -62,7 +62,7 @@ namespace Teller.models
             switch (response.ToLower())
             {
                 case "savings":
-                    rate = 0.05;
+                    rate = 0.08;
                     break;
                 case "Coorperate":
                     rate = 0.1;
@@ -102,17 +102,17 @@ namespace Teller.models
         public void GetInterest()
         {
             double rate = GetRate(AccountSelector(GetCustomerDetails()));
-            int[] month = { 6, 9, 12, 24, 60 };
+            int[] months = { 6, 9, 12, 24, 60 };
 
             Console.WriteLine($"Ok {this.CustomerName}, after putting your account preferences into " +
                     $"consideration\n");
 
-            foreach (int i in month)
+            foreach (int month in months)
             {
-                double sum = CalculateInterest(rate, i);
+                double sum = CalculateInterest(rate, month);
                 double finalSum = this.Balance + (sum - CalculateVat(sum));
 
-                Console.WriteLine($"On the {i}th months, you would have {finalSum}");
+                Console.WriteLine($"On the {month}th months, you would have {finalSum}");
             }
         }
 
