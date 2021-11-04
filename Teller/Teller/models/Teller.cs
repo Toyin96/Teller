@@ -112,7 +112,7 @@ namespace Teller.models
                 double sum = CalculateInterest(rate, month);
                 double finalSum = this.Balance + (sum - CalculateVat(sum));
 
-                Console.WriteLine($"On the {month}th months, you would have {finalSum}");
+                Console.WriteLine($"You would have accrued {finalSum} at the end of the {month}th month");
             }
         }
 
